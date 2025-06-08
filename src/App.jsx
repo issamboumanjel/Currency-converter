@@ -1,4 +1,4 @@
-import ConverterForm from "./components/converterForm"
+import ConverterForm from "./components/ConverterForm.jsx"
 const App = () => {
   return (
     <div className="currency-converter">
